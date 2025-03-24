@@ -1,0 +1,44 @@
+body{
+  background-image: url(imagens/estoque\ bank.jpg2.jpg); 
+  background-size: 1000%;
+  position: absolute;
+  font-family: Arial, sans-serif;
+}
+
+header {
+    background-color:transparent;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+nav {
+    background-color:transparent;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px 0;
+    text-align: center;
+    
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+section {
+        text-align: auto;
+        font-family: Arial;
+        padding: 100px;
+        font-size: large;
+        color: white; text-shadow: black 0.1em 0.1em 0.2em
+}
+
+
+
